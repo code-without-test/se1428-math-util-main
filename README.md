@@ -8,7 +8,7 @@ This ropository contains a Java project to simulate a well-known JDK class - the
 * ...
 
 ### Connect me via:
-[Facebook] (https://www.facebook.com/NVK063)
+[Facebook](https://www.facebook.com/NVK063/)
 [Email](mailto:ngovykhang679@gmail.com)
 
-###  © 2020 by ngo.khangh | FPT Unisersity, HCMC
+###  © 2020 by vy.khang | FPT Unisersity, HCMC
